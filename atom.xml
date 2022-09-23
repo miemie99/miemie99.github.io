@@ -2,14 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://miemie99.github.io</id>
     <title>Gridea</title>
-    <updated>2022-09-22T12:17:52.481Z</updated>
+    <updated>2022-09-23T05:55:53.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://miemie99.github.io"/>
     <link rel="self" href="https://miemie99.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://miemie99.github.io/images/avatar.png</logo>
     <icon>https://miemie99.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[我的猫]]></title>
+        <id>https://miemie99.github.io/post/wo-de-mao/</id>
+        <link href="https://miemie99.github.io/post/wo-de-mao/">
+        </link>
+        <updated>2022-09-23T05:08:09.000Z</updated>
+        <content type="html"><![CDATA[<p>从2020年5月开始，为了缓解自己平时的工作压力，重新到local shelter做志愿者</p>
+<p>Jax<br>
+贾科斯是我接手的第一只猫，当时在官网上查找可以foster的猫的信息的时候，剩下的都是一些有一些疾病的猫，比如上呼吸道感染或者是on special diet.看来看去只有一只猫比较有眼缘，就是jax。</p>
+<figure>
+    <img alt = "Jax" src="C:\Users\meiya\Desktop\foster cats\jax\jax.jpg">
+    <figcaption>ssss</figcaption>
+</figure>
+左边这只秃屁股就是jax.
+因为专业原因，我们领域的高端journal缩写为JACS. 我就开玩笑的说这下我也有一篇JACS了。
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人心惶惶回国记录]]></title>
         <id>https://miemie99.github.io/post/ren-xin-huang-huang-hui-guo-ji-lu/</id>
